@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FestGuide</string>
+    <string name= "openapi_url">http://api.data.go.kr/</string>
+    <string name= "openapi_key">xpvuJAMZg3gdTYZIAOPTNGIOOOt0IUAjWKwtsU08uoFuJudL8rEYLrcq2eMgghpQqwurXaH7Mda/xQKAyxSCYw==</string>
+</resources>
